@@ -86,7 +86,7 @@
     } 
 }
 
-@media screen and (min-width:900px) and (max-width:1200px) {
+@media screen and (min-width:600px) and (max-width:1200px) {
     header{
         background-color: hsl(221, 100%, 56%);
         color: white;
@@ -120,7 +120,7 @@
         flex-direction: row;
         justify-content: space-between;
     }
-    
+
     .box-1{
         width: 100%;
         max-width: 300px;
@@ -161,7 +161,6 @@
     }
 
     .box-4{
-        width: 100%;
         max-width: 100%;
         margin: 0 auto;
         background-color: white;
@@ -172,4 +171,5 @@
         border-radius: 5px;
         background-color: rgb(255, 0, 111);
     } 
+    
 }
